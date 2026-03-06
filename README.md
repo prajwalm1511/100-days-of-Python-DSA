@@ -1,2 +1,2 @@
-# 100-days-of-python-DSA
-15-week roadmap mastering Python and DSA patterns. Includes daily progress from the 100 Days of Code Bootcamp and solutions to 120+ DSA challenges. 
+# 100-days-of-python
+Comprehensive 100-day intensive focused on Python development.Documented daily progress and projects to build a consistent coding habit.Focused on mastering core language syntax, libraries, and real-world applications.
